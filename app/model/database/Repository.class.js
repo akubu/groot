@@ -1,0 +1,1 @@
+// generic methods for db query which will use schema.js
